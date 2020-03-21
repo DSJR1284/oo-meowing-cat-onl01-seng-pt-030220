@@ -3,4 +3,8 @@
 class Cat 
   attr_accesor : name 
   
-def 
+  def cat call 
+    puts "meow!"
+  end 
+
+end 
